@@ -1,0 +1,15 @@
+/Users/sergey27101971/Documents/Education/06.07.22-C#/Examples001_HelloConsole/bin/Debug/net6.0/Examples001_HelloConsole
+/Users/sergey27101971/Documents/Education/06.07.22-C#/Examples001_HelloConsole/bin/Debug/net6.0/Examples001_HelloConsole.deps.json
+/Users/sergey27101971/Documents/Education/06.07.22-C#/Examples001_HelloConsole/bin/Debug/net6.0/Examples001_HelloConsole.runtimeconfig.json
+/Users/sergey27101971/Documents/Education/06.07.22-C#/Examples001_HelloConsole/bin/Debug/net6.0/Examples001_HelloConsole.dll
+/Users/sergey27101971/Documents/Education/06.07.22-C#/Examples001_HelloConsole/bin/Debug/net6.0/Examples001_HelloConsole.pdb
+/Users/sergey27101971/Documents/Education/06.07.22-C#/Examples001_HelloConsole/obj/Debug/net6.0/Examples001_HelloConsole.csproj.AssemblyReference.cache
+/Users/sergey27101971/Documents/Education/06.07.22-C#/Examples001_HelloConsole/obj/Debug/net6.0/Examples001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergey27101971/Documents/Education/06.07.22-C#/Examples001_HelloConsole/obj/Debug/net6.0/Examples001_HelloConsole.AssemblyInfoInputs.cache
+/Users/sergey27101971/Documents/Education/06.07.22-C#/Examples001_HelloConsole/obj/Debug/net6.0/Examples001_HelloConsole.AssemblyInfo.cs
+/Users/sergey27101971/Documents/Education/06.07.22-C#/Examples001_HelloConsole/obj/Debug/net6.0/Examples001_HelloConsole.csproj.CoreCompileInputs.cache
+/Users/sergey27101971/Documents/Education/06.07.22-C#/Examples001_HelloConsole/obj/Debug/net6.0/Examples001_HelloConsole.dll
+/Users/sergey27101971/Documents/Education/06.07.22-C#/Examples001_HelloConsole/obj/Debug/net6.0/refint/Examples001_HelloConsole.dll
+/Users/sergey27101971/Documents/Education/06.07.22-C#/Examples001_HelloConsole/obj/Debug/net6.0/Examples001_HelloConsole.pdb
+/Users/sergey27101971/Documents/Education/06.07.22-C#/Examples001_HelloConsole/obj/Debug/net6.0/Examples001_HelloConsole.genruntimeconfig.cache
+/Users/sergey27101971/Documents/Education/06.07.22-C#/Examples001_HelloConsole/obj/Debug/net6.0/ref/Examples001_HelloConsole.dll
